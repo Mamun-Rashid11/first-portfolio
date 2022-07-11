@@ -1,0 +1,80 @@
+
+section{
+    width: 75%;
+    margin: auto;
+}
+
+
+
+/* header and menu area Background css */
+
+
+.header-menu-area{
+    height: 100vh;
+}
+
+a.navbar-brand{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px ;
+    font-weight: 900 !important;
+}
+
+span.navbar-toggler-icon{
+    color: #000000 !important;
+}
+
+/* navbar design start */
+.navbar-nav .nav-item .nav-link{
+    text-decoration: none;
+    color: #000000 !important;
+    font-size: 23px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+.navbar-nav .nav-item{
+    margin: auto 10px auto 0px;
+}
+
+/* navbar design end */
+
+
+/* hero section design start */
+
+.big-title-one{
+    font-size: 82px;
+    letter-spacing: -4px;
+    color: #34302D;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: -20px;
+
+}
+
+
+.big-title-two{
+    font-size: 150px;
+    letter-spacing: -4px;
+    color: #34302D;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+.text-wrapper p {
+    font-size: 26px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #34302D;
+    padding: 18px 0px 0 0;
+    width: 90%;
+    line-height: 32px;
+}
